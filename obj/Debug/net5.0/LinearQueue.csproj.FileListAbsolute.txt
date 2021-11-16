@@ -1,0 +1,16 @@
+C:\Users\gamin\RiderProjects\a2\isps\LinearQueue\LinearQueue\bin\Debug\net5.0\LinearQueue.exe
+C:\Users\gamin\RiderProjects\a2\isps\LinearQueue\LinearQueue\bin\Debug\net5.0\LinearQueue.deps.json
+C:\Users\gamin\RiderProjects\a2\isps\LinearQueue\LinearQueue\bin\Debug\net5.0\LinearQueue.runtimeconfig.json
+C:\Users\gamin\RiderProjects\a2\isps\LinearQueue\LinearQueue\bin\Debug\net5.0\LinearQueue.runtimeconfig.dev.json
+C:\Users\gamin\RiderProjects\a2\isps\LinearQueue\LinearQueue\bin\Debug\net5.0\LinearQueue.dll
+C:\Users\gamin\RiderProjects\a2\isps\LinearQueue\LinearQueue\bin\Debug\net5.0\ref\LinearQueue.dll
+C:\Users\gamin\RiderProjects\a2\isps\LinearQueue\LinearQueue\bin\Debug\net5.0\LinearQueue.pdb
+C:\Users\gamin\RiderProjects\a2\isps\LinearQueue\LinearQueue\obj\Debug\net5.0\LinearQueue.csprojAssemblyReference.cache
+C:\Users\gamin\RiderProjects\a2\isps\LinearQueue\LinearQueue\obj\Debug\net5.0\LinearQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamin\RiderProjects\a2\isps\LinearQueue\LinearQueue\obj\Debug\net5.0\LinearQueue.AssemblyInfoInputs.cache
+C:\Users\gamin\RiderProjects\a2\isps\LinearQueue\LinearQueue\obj\Debug\net5.0\LinearQueue.AssemblyInfo.cs
+C:\Users\gamin\RiderProjects\a2\isps\LinearQueue\LinearQueue\obj\Debug\net5.0\LinearQueue.csproj.CoreCompileInputs.cache
+C:\Users\gamin\RiderProjects\a2\isps\LinearQueue\LinearQueue\obj\Debug\net5.0\LinearQueue.dll
+C:\Users\gamin\RiderProjects\a2\isps\LinearQueue\LinearQueue\obj\Debug\net5.0\ref\LinearQueue.dll
+C:\Users\gamin\RiderProjects\a2\isps\LinearQueue\LinearQueue\obj\Debug\net5.0\LinearQueue.pdb
+C:\Users\gamin\RiderProjects\a2\isps\LinearQueue\LinearQueue\obj\Debug\net5.0\LinearQueue.genruntimeconfig.cache
